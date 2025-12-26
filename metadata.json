@@ -1,0 +1,7 @@
+{
+  "name": "RoofMaxx Lead Commander AI",
+  "description": "An enterprise-grade lead generation and roof analysis tool specifically designed for RoofMaxx. It leverages Gemini's Google Maps grounding to identify commercial buildings in Pittsburgh, PA, analyze roof data, and export comprehensive details to CSV.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
